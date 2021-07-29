@@ -305,9 +305,12 @@ footer {
   text-decoration: none;
   text-transform: uppercase;
 }
-.menu-item.imhere a{
+a.imhere{
   color: var(--qsa-orange);
 }
+/* .menu-item.imhere a{ */
+/*   color: var(--qsa-orange); */
+/* } */
 
 @media (max-width: 690px) {
   .menu {
