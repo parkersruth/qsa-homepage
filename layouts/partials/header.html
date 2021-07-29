@@ -1,25 +1,28 @@
 <header>
 
-  <a class="biglogo" href="{{ .Site.BaseURL }}"><img src="/img/qsa-header.svg"></a>
+  <a class="biglogo" href="{{ .Site.BaseURL }}"><img src="{{ "img/qsa-header.svg" | relURL }}"></a>
 
 	{{ $currentPage := . }}
 	{{ with .Site.Menus.main }}
   <nav class="menu" role='navigation'>
     <ol>
 			{{ range . }}
-        <li class="menu-item {{ if eq $currentPage.Name .Name }}imhere{{ end }}">
-          <a href="{{ .URL | relURL }}">
+        <li class="menu-item">
+          <a {{ if eq $currentPage.Name .Name }}class="imhere"{{ end }} href="{{ .URL }}">
             {{ .Name }}
             {{ if .HasChildren }}&nbsp;<i class="fa fa-chevron-down"></i>{{ end }}
           </a>
           {{ if .HasChildren }}
             <ol class="sub-menu" label="submenu">
             {{ range .Children }}
-              <li class="menu-item {{ if eq $currentPage.Name .Name }}imhere{{ end }}"><a href="{{ .URL }}">{{ .Name }}</a></li>
+              <li class="menu-item">
+                <a {{ if eq $currentPage.Name .Name }}class="imhere"{{ end }} href="{{ .URL }}">
+                  {{ .Name }}
+                </a>
+              </li>
             {{ end }}
             </ol>
           {{ end }}
-          <!-- TODO possible sub-menu items go here -->
         </li>
 			{{ end }}
     </ol>
