@@ -1,0 +1,1 @@
+When corresponding particles of matter and antimatter (for example, an electron and a positron) contact each other, they annihilate each other, converting their masses into energy in the form of high-energy photons. The total energy produced can be calculated by using the equation {{< latex >}} E = mc^2 {{< /latex >}}.

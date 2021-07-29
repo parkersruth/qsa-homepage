@@ -1,0 +1,1 @@
+The principle of relative motion is the intuitive idea, originally proposed by Galileo Galilei, that there is no “universal reference frame.” It is meaningless to describe an object as traveling at some speed without reference to some background frame of reference.

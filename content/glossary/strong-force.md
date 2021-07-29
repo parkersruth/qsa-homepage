@@ -1,0 +1,1 @@
+The strong force (or strong interaction) is a fundamental interaction mediated by the gluon. It affects all particles with a strong charge, also called a color charge. There are three color charges: red, green, and blue (plus their anti-equivalents, antired, antigreen, and antiblue). All quarks can take color charges and thus interact with the strong force.

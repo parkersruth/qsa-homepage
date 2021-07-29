@@ -1,0 +1,1 @@
+Physicists have measured unmistakable gravitational effects in the universe where there isn’t any matter to cause it. This invisible substance, called dark matter, can be found in galaxies in large quantities, and has an unknown constitution. One theory proposes that dark matter is composed of weakly interacting massive particles (WIMPs).

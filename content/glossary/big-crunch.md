@@ -1,0 +1,1 @@
+According to the Big Crunch theory for the ultimate end of the universe, the expansion of the universe will reverse, leading to a massive collapse. This would effectively be like an inverted Big Bang.

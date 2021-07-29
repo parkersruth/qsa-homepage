@@ -1,0 +1,1 @@
+One fascinating consequence of quantum mechanics is the strange phenomenon of entanglement, in which observing the state of one entangled particle determines the state of another in a completely different location. This effect can be harnessed by quantum computers to perform powerful calculations.

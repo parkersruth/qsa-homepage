@@ -1,0 +1,1 @@
+The Schwarzschild radius for an object is, simply put, the radius the object would have to be squeezed into to form a black hole. This can be calculated by determining the radius at which the escape velocity exceeds the speed of light. The formula for the Schwarzschild radius is {{< latex >}} r=2GM/c^2 {{< /latex >}}. It is named after physicist Karl Schwarzschild.

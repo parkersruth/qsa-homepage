@@ -1,0 +1,1 @@
+The gluon is a boson that mediates the strong interaction. Gluons are hypothesized to interact with each other to form transient composite structures called glueballs.

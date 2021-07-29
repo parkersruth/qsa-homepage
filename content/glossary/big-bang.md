@@ -1,0 +1,1 @@
+Cosmologists believe that the universe started much smaller than it is now — a nearly infinitesimal point. The unfathomably rapid expansion during the first moments of our universe’s existence is called the Big Bang.

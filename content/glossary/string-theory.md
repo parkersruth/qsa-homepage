@@ -1,0 +1,1 @@
+String Theory is a field of study at the cutting edge of theoretical physics research. It proposes that all fundamental particles are actually composed of unimaginably tiny vibrating strings. The theory proposes that the possible vibrations of these strings are what cause the properties of different particles.

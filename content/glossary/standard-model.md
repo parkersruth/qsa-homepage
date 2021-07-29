@@ -1,0 +1,1 @@
+The Standard Model of particle physics records the properties of all of the fundamental particles that make up everything we see around us. The Standard Model organizes all particles into two categories: fermions and bosons.

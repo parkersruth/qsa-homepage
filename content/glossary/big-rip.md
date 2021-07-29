@@ -1,0 +1,1 @@
+A dramatic theory for the end of the universe, called the Big Rip, predicts that the universe will expand at an ever increasing rate. This would cause every atom in the universe to be violently torn apart.

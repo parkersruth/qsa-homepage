@@ -1,0 +1,1 @@
+The photon is a boson in the Standard Model responsible for mediating the electromagnetic force. Photons can have different energy levels ranging from low-energy x-rays to high-energy gamma rays. A particular range of photons within the visible light spectrum can be seen by humans as the colors of the rainbow.

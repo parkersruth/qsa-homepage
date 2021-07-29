@@ -1,0 +1,1 @@
+The speed of light is exactly 299,792,458 meters per second (roughly {{< latex >}}3.00 \times 10^8 m/s {{< /latex >}}). It is abbreviated with the letter c for the Latin word “celer” (meaning speed). According to Special Relativity, nothing can travel faster than the speed of light.

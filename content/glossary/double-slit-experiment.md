@@ -1,0 +1,1 @@
+The double slit experiment is a simple experiment used to demonstrate the foundations of quantum mechanics. By shining a beam of light through a pair of thin slits, physicists can directly observe wave-particle duality and wavefunction collapse.

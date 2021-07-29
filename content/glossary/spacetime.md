@@ -1,0 +1,1 @@
+Spacetime is, quite simply, space and time put together. We can think of spacetime as a four-dimensional continuum with three spatial dimensions and one time dimension.

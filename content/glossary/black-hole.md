@@ -1,0 +1,1 @@
+One fascinating consequence of General Relativity is the fact that some objects have such intense gravity that nothing can escape them — not even light! These extraordinary occurrences are called black holes. The extreme warping of spacetime around black holes leads to some bizarre phenomena.

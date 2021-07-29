@@ -1,0 +1,1 @@
+For some reason, despite the predictions of our current theories, the universe is expanding faster and faster in all directions. This strange fact has been attributed to dark energy, an elusive substance currently at the cutting edge of physics research.

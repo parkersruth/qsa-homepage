@@ -1,0 +1,1 @@
+Wave-particle duality is the name for the fact that tiny particles of matter and energy behave like waves in some ways and like particles in others. This behavior is modeled in quantum mechanics by a mathematical construct called a wavefunction.

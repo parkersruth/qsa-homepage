@@ -1,0 +1,1 @@
+In quantum mechanics, wavefunction is a mathematical representation of a particle. Taking the square modulus of the wavefunction produces a probabilistic prediction about the location of a particle, but does not indicate a single definite position.

@@ -1,0 +1,1 @@
+Bosons are the fundamental particles responsible for mediating the interactions (forces) between the fermions. They include the photon, gluon, and weak bosons, as well as the Higgs boson. Some physicists have speculated the existence of the graviton; however, it is unknown if such a particle exists.

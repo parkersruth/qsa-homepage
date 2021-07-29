@@ -1,0 +1,1 @@
+Weakly Interacting Massive Particles (or WIMPs for short) are theorized particles that may explain the strange phenomenon of dark matter. If they exist, then the only fundamental forces they could interact with would be the gravitational force and the weak force.

@@ -1,0 +1,1 @@
+The graviton is a theorized boson intended to include the gravitational force in the Standard Model. No graviton has ever been experimentally observed and its theoretical underpinnings remain uncertain.

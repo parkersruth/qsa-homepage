@@ -1,0 +1,78 @@
+baseURL: https://quantumspotacademy.org
+languageCode: en-us
+title: Quantum Spot Academy
+
+menu:
+  main:
+
+    # - name: Home
+    #   url: /
+    #   weight: 1
+
+    - name: Videos
+      url: /videos
+      weight: 2
+    - name: Relativity
+      url: /videos/relativity
+      weight: 1
+      parent: Videos
+    - name: Black Holes
+      url: /videos/black-holes
+      weight: 2
+      parent: Videos
+    - name: Cosmology
+      url: /videos/cosmology
+      weight: 3
+      parent: Videos
+    - name: Quantum Mechanics
+      url: /videos/quantum-mechanics
+      weight: 4
+      parent: Videos
+    - name: The Standard Model
+      url: /videos/the-standard-model
+      weight: 5
+      parent: Videos
+    - name: Antimatter
+      url: /videos/antimatter
+      weight: 6
+      parent: Videos
+    - name: Theory of Everything
+      url: /videos/theory-of-everything
+      weight: 7
+      parent: Videos
+
+    - name: Glossary
+      url: /glossary
+      weight: 3
+
+    - name: Resources
+      url: /resources
+      weight: 4
+    # - name: Websites
+    #   url: /resources/websites
+    #   weight: 1
+    #   parent: Resources
+    # - name: Videos
+    #   url: /resources/videos
+    #   weight: 2
+    #   parent: Resources
+    # - name: Books
+    #   url: /resources/books
+    #   weight: 3
+    #   parent: Resources
+
+    - name: About
+      url: /about
+      weight: 5
+    # - name: Acknowledgements
+    #   url: /resources/acknowledgements
+    #   weight: 1
+    #   parent: About
+
+    - name: Contact
+      url: /contact
+      weight: 6
+
+
+
+

@@ -1,0 +1,1 @@
+Albert Einstein’s theory of Special Relativity replaced Isaac Newton’s classical laws of motion as the most accurate description of moving objects. Specifically, it helps us understand how objects behave when they are traveling near the speed of light. You can learn about some of the many fascinating consequences of Special Relativity in this video. (See also General Relativity.)

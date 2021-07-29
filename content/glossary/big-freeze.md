@@ -1,0 +1,1 @@
+A likely outcome for our universe is that as stars continue to die, the universe will slowly cool down, eventually decaying into a cloud of particles. This cosmological outcome is called the Big Freeze.

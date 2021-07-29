@@ -1,0 +1,1 @@
+The Higgs boson is a boson in the Standard Model that is responsible for giving the fundamental particles their characteristic masses.

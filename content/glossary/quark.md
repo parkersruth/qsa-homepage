@@ -1,0 +1,1 @@
+Quarks are particles in the standard model that interact with the Strong Force (gluons). There are six types of quarks: up, down, charm, strange, top, and bottom.

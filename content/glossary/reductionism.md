@@ -1,0 +1,1 @@
+Our everyday experiences are varied and complex, and yet we would like to understand them all in terms of simpler components. Everything we see and interact with on a daily basis is constructed of atoms from the periodic table; atoms are themselves made of smaller particles.

@@ -1,0 +1,1 @@
+The weak force (or weak interaction) is a fundamental interaction between all particles in the standard model. The weak interaction dictates the way fundamental particles can decay into other fundamental particles (for example, the phenomenon of radioactive beta decay). The weak force is mediated by the weak bosons.
